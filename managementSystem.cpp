@@ -17,10 +17,11 @@ void deleteReservation(vector<Reservation> res);
 
 
 int main() {
+	// TODO
 	// Create a Queue For dates
 	// Once created put in 3 reservations into the queue for one date
 	// name reservations and dates after date Reservation number
-	//create a ticket variable in reservation
+	// create a ticket variable in reservation
 
 	// once multiple dates and reservations are made 
 	// Code how to delete and update
@@ -28,12 +29,6 @@ int main() {
 	// then create a way to display all reservations for a specified date.
 	// should be a for loop that prints out the reservation
 
-	/** 
-		Tomorrow:
-			Queue is okay... I think
-			 
-
-	*/
 	vector<Reservation> dailyReservation;
 
 	load(dailyReservation);
